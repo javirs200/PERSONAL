@@ -214,6 +214,10 @@ img#startButton:hover{
     .plane{
         width: 30%;
     }
+
+    video{
+        width: 50%;
+    }
     
 }
 
@@ -230,6 +234,10 @@ img#startButton:hover{
     }
     
     .plane{
+        width: 30%;
+    }
+    
+    video{
         width: 30%;
     }
 
