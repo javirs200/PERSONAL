@@ -67,6 +67,9 @@ window.onload = () => {
 
         if (warnMsj.length > 0) {
             console.log("warnings -> \n",warnMsj);
+
+            alert("warnings -> \n"+warnMsj)
+
         }
         
 
